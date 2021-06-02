@@ -1,0 +1,307 @@
+body{
+
+    background-color: #D8D8D8 !important;
+
+}
+.prvi-deo{
+    background-color: #548BD8;
+}
+.srpski{
+    margin-left: 21%;
+    margin-right: 1%;
+}
+.srpski a{
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    
+}
+.srpski a:hover{
+    color: orangered;
+    text-decoration: none;
+
+}
+.pretraga{
+    height: 3vh;
+    font-size: 12px;
+    width: 30%;
+    float: right;
+    margin-left: 40%;
+}
+.drugi-deo{
+    background: linear-gradient(#112335, #548bd8);
+    padding-bottom: 1%;
+}
+.logo{
+    margin-left: 19% !important;
+    margin-top: 1%;
+}
+
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover{
+    color: orangered !important;
+}
+.desno{
+    margin-top: 2%;
+}
+.neke-vesti{
+    background: linear-gradient(#112335, #425D82);
+    overflow: scroll;
+    height: 61.2vh !important;
+    width: 100%;
+    padding-left: 2% !important;
+    margin-left: 0% !important;
+    padding-top: 1%;
+    margin-top: 1%;
+    
+    
+     
+}
+.neke-vesti a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+    
+}
+.v1{
+    font-size: 11px;
+    color: white;
+    padding-left: 5% !important;
+    padding-top: 4%;
+    border-bottom: 1px dotted #CCC;
+    
+    margin-right: 2% !important;
+}
+.v1 a{
+    color: white;
+    text-decoration: none;
+}
+.v1 a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.Novo{
+    background-color: orangered;
+    margin-left: 4%;
+    height: 10% !important;
+    
+    padding-top: 1% !important;
+}
+.Novo a:hover{
+    color: white;
+    text-decoration: none;
+}
+.Najcitanije a:hover{
+    color: white;
+    text-decoration: none;
+}
+.time1{
+
+    color: #FFF;
+    margin-right: 5px;
+    font-size: 11px;
+    width: 35px;
+    text-align: center;
+    background-color: #FF3D00;
+    float: left;
+
+}
+.time {
+    color: #FFF;
+    margin-right: 5px;
+    font-size: 11px;
+    width: 35px;
+    text-align: center;
+    background-color: #466289;
+    float: left;
+}
+.vremee{
+    padding: 0% !important;
+}
+
+.levo{
+    background-color: white;
+    margin-top: 2%;
+}
+
+.vesti{
+    
+    border-bottom: 1px dotted #ccc;
+    margin-bottom: 2%;
+
+}
+
+.velike-vesti{
+    margin-top: 1%;
+    padding-left: 1%;
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 1% !important;
+
+}
+.velike-vesti a{
+    font-size: 18px;
+    color: #112335;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 1%;
+
+
+}
+.velike-vesti a:hover{
+  
+    color: orangered;
+    text-decoration: none;
+
+}
+.paragraf{
+    font-size: 12px;
+    color: #848484;
+}
+.gornji{
+    margin-left: 2% !important;
+
+}
+.donji{
+    margin-left: 3% !important;
+    font-size: 13px;
+    color: #848484;
+
+}
+.strana{
+    margin-top: 1%;
+    padding-left: 30% !important;
+    color: #848484;
+}
+.strana a{
+    color: #112335;
+    text-decoration: none;
+}
+.strana a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.poslednji-deo{
+    background: white;
+    margin-left: 0.5%;
+    padding-bottom: 5% !important;
+
+
+
+}
+.poslednji-deo1{
+    background: white;
+    padding-bottom: 5% !important;
+    
+}
+.pos-slika{
+    padding-left: 10%;
+    margin-top: 4%;
+}
+.pos-tekst{
+    padding-left: 4%;
+    padding-right: 2%;
+    border-bottom: 4px solid #ccc;
+    margin-right: 1% !important;
+    margin-left: 1% !important;
+    
+
+}
+.pos-tekst a{
+    color: #112335;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+.pos-tekst a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+
+.pos-vesti{
+    font-size: 12px;
+    padding-top: 4%;
+    border-bottom: 1px dotted #ccc;
+    margin-left: 1% !important;
+    margin-right: 1% !important;
+    
+
+
+}
+.pos-vesti a{
+    color: #112335;
+    text-decoration: none;
+    font-size: 12px;
+}
+.pos-vesti a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.poslednje2{
+    margin-top: 1%;
+    margin-bottom: 2% !important;
+    
+}
+.kvadratic{
+    background-color: orangered;
+    height: 20px;
+    width: 8px;
+    padding-left: 1% !important;
+    
+}
+.kvadratic1{
+    background-color: #112335;
+    height: 10px;
+    width: 4px;
+    padding-left: 1% !important;
+    padding-top: 2% !important;
+    margin-left: 2%;
+}
+.popularno-vesti{
+
+    padding-top: 1% !important;
+    border-bottom:2px solid #ccc;
+    margin-left: 1% !important;
+    margin-right: 1% !important;
+    
+
+
+}
+.futer{
+    background-image: linear-gradient( #112335, #425D82);
+    
+}
+.sekcija{
+    border-bottom: 1px solid #ccc;
+    color: white;
+    margin-left: 2% !important;
+    font-size: 16px;
+    margin-bottom: 4%;
+    margin-top: 8%;
+}
+.nabrajanja{
+    margin-left: 5% !important;
+    
+}
+.nabrajanja a{
+    color: white;
+    text-decoration: none;
+
+}
+.nabrajanja a:hover{
+    color: orangered;
+    text-decoration: none;
+
+}
+.copyright{
+    padding-left: 30% !important;
+    font-size: 13px;
+    margin-top: 4%;
+    color: white;
+}
+.logo2{
+    margin-left: 90%;
+    margin-bottom: 1%;
+}

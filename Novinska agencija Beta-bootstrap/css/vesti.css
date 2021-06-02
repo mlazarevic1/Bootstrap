@@ -1,0 +1,1044 @@
+body{
+
+    background-color: #D8D8D8 !important;
+
+}
+.prvi-deo{
+    background-color: #548BD8;
+}
+.prvi-deo-zelena{
+    background-color: #2caa80;;
+}
+.prvi-deo-sport{
+    background-color: #990000;
+}
+.prvi-deo-scena{
+    background-color: #8E488E;
+}
+.srpski{
+    margin-left: 21%;
+    margin-right: 1%;
+}
+.srpski a{
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    
+}
+.srpski a:hover{
+    color: orangered;
+    text-decoration: none;
+
+}
+.pretraga{
+    height: 3vh;
+    font-size: 12px;
+    width: 30%;
+    float: right;
+    margin-left: 40%;
+}
+.drugi-deo{
+    background: linear-gradient(#112335, #548bd8);
+    padding-bottom: 1%;
+}
+.drugi-deo-zelena{
+    background: linear-gradient(#00331a, #2caa80);
+    padding-bottom: 1%;
+}
+.drugi-deo-scena{
+    background: linear-gradient(#321a32, #8e488e);
+    padding-bottom: 1%;  
+}
+.drugi-deo-sport{
+    background: linear-gradient(#660000, #990000);
+    padding-bottom: 1%;
+}
+
+.logo{
+    margin-left: 19%;
+    margin-top: 1%;
+}
+
+.nav-link{
+    color: white !important;
+}
+.nav-link:hover{
+    color: orangered !important;
+}
+.treci-deo-zelena{
+
+    background: linear-gradient(#00331a, #2caa80); 
+  
+  }
+
+
+.container{
+    width: 70% !important;
+    margin-top: 1.5%;
+    background-color: #D8D8D8 !important;
+
+
+}
+.desno{
+    
+    background-color: #D8D8D8;
+    padding-left: 1% !important;
+    height: 80% !important;
+    
+}  
+.levo{
+    background-color: #D8D8D8;
+
+}
+.vest1{
+    background-color: #112335;
+}
+.vest1-zelena{
+    background-color:#00331a;
+
+}
+.vest1-zelena a{
+    color: white;
+}
+
+.vest1-zelena a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.vest1-scena{
+    background-color: #321a32;
+}
+.vest1-scena a{
+    color: white;
+    text-decoration: none;
+}
+.vest1-scena a:hover{
+    color: #2E9AFE;
+    text-decoration: none;
+}
+
+.vest1-sport{
+    background-color: #990000;
+}
+
+.vest1 a{
+    color: white;
+}
+
+.vest1 a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.vest1-sport a{
+    color: white;
+    text-decoration: none;
+}
+.vest1-sport a:hover{
+    color: orange;
+    text-decoration: none;
+}
+.tekst-scena{
+    border-top: 3px solid #2E9AFE; 
+    padding-top: 1%;
+    color: white;
+    font-size: 17px;
+    background: linear-gradient(#321a32, #8e488e);
+}
+.tekst-zelena{
+    border-top: 3px solid orangered; 
+    padding-top: 1%;
+    color: white;
+    font-size: 17px;
+    background: linear-gradient(#00331a, #2caa80);
+}
+.tekst{
+    padding-top: 1%;
+    border-top: 3px solid #FF3D00;
+    color: white;
+    font-size: 17px;
+    background: linear-gradient(#112335, #548bd8);   
+}
+.neke-vesti{
+    background: linear-gradient(#112335, #425D82);
+    overflow: scroll;
+    height: 65.7vh !important;
+    width: 100%;
+    padding-left: 2% !important;
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    padding-top: 1%;
+    
+
+
+    
+    
+     
+}
+.neke-vesti-zelena{
+    background: linear-gradient(#00331a, #2caa80);
+    overflow: scroll;
+    height: 65.2vh !important;
+    width: 100%;
+    padding-left: 2% !important;
+    margin-left: 0% !important;
+    padding-top: 1%;
+   
+    
+    
+     
+}
+.neke-vesti-scena{
+    background: linear-gradient(#321a32, #8e488e);
+    overflow: scroll;
+    height: 70vh !important;
+    width: 100%;
+    padding-left: 2% !important;
+    margin-left: 0% !important;
+    padding-top: 1%;
+    
+}
+.psl{
+    margin-top: 6%;
+}
+.neke-vesti-scena a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+    
+}
+.neke-vesti-zelena a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+    
+}
+.neke-vesti a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+    
+}
+.v1{
+    font-size: 11px;
+    color: white;
+    padding-left: 5% !important;
+    padding-top: 4%;
+    border-bottom: 1px dotted #CCC;
+    
+    margin-right: 2% !important;
+}
+.v1 a{
+    color: white;
+    text-decoration: none;
+}
+.v1 a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.slika{
+    padding: 0.4% !important;
+    
+}
+.Novo{
+    background-color: orangered;
+    margin-left: 4%;
+    height: 10% !important;
+    
+    padding-top: 1% !important;
+}
+.Novo a:hover{
+    color: white;
+    text-decoration: none;
+}
+.Najcitanije a:hover{
+    color: white;
+    text-decoration: none;
+}
+.time1{
+
+    color: #FFF;
+    margin-right: 5px;
+    font-size: 11px;
+    width: 35px;
+    text-align: center;
+    background-color: #FF3D00;
+    float: left;
+
+}
+.time {
+    color: #FFF;
+    margin-right: 5px;
+    font-size: 11px;
+    width: 35px;
+    text-align: center;
+    background-color: #466289;
+    float: left;
+}
+.levo1{
+    padding: 0 !important;
+    margin-top: 0.5%;
+    position: relative;
+}
+.prva{
+    
+    margin-top: 0.9%;
+    background: linear-gradient(#112335, #425D82);
+    margin-left: 1% !important;
+    width: 99%;
+    
+}
+.prva-zelena{
+    
+    margin-top: 0.9%;
+    background: linear-gradient(#00331a, #2caa80);
+    font-size: 14px;
+    margin-left: 1% !important;
+    width: 99%;
+}
+.prva-zelena a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+.prva-zelena a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.prva-scena{
+    margin-top: 0.9%;
+    background: linear-gradient(#321a32, #8e488e);
+    width: 99%;
+    margin-left: 1% !important;
+    
+}
+.prva-scena a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 1%;
+    font-size: 14px;
+}
+.prva-scena a:hover{
+    color: #2E9AFE;
+    text-decoration: none;
+}
+.prva a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 1%;
+    font-size: 14px;
+}
+.prva a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.na-slici{
+    position: absolute;
+    top: 70%;
+    background-color: #112335;
+    width: 100%;
+    color: white;
+    height: 30%;
+    opacity: 0.7;
+    font-weight: bold;
+    padding-left: 3% !important;
+    
+}
+.na-slici-zelena{
+    position: absolute;
+    top: 70%;
+    background-color: #00331a;
+    width: 100%;
+    color: white;
+    height: 30%;
+    opacity: 0.7;
+    font-weight: bold;
+    padding-left: 3% !important;
+    
+}
+.na-slici-zelena a {
+    color: white;
+    text-decoration: none;
+
+}
+.na-slici-zelena a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.na-slici-scena{
+    position: absolute;
+    top: 70%;
+    background-color: #321a32;
+    width: 100%;
+    color: white;
+    height: 30%;
+    opacity: 0.7;
+    font-weight: bold;
+    padding-left: 3% !important; 
+}
+.na-slici-scena a {
+    color: white;
+    text-decoration: none;
+
+}
+.na-slici-scena a:hover{
+    color: #2E9AFE;
+    text-decoration: none;
+}
+.na-slici a {
+    color: white;
+    text-decoration: none;
+
+}
+.na-slici a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+
+.levo2{
+    margin-top: 0.5% !important;
+    background-color: white;
+    padding-bottom: 12% !important;
+    margin-bottom: 7%;
+}
+.levo2-slike{
+
+    margin-top: 1% !important;
+    margin-left: 2% !important;
+
+}
+.levo2 a{
+    color: #112335;
+    text-decoration: none;
+    margin-left: 1%;
+    font-weight: bold;
+    font-size: 14px;
+}
+.levo2 a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.desno2{
+    margin-top: 0.5% !important;
+    background-color: white;
+    font-size: 14px;
+    padding-bottom: 12% !important;
+    margin-bottom: 7%;
+}
+.levo2-slike{
+
+    margin-top: 1% !important;
+
+}
+.desno2 a{
+    color: #112335;
+    text-decoration: none;
+    margin-left: 1%;
+    font-weight: bold;
+}
+.desno2 a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.dugmence{
+    background-color: #112335;
+    margin-top: 5% !important;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    width: 30%;
+    border: none;
+    position: absolute;
+    
+
+}
+.dugmence a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 12px;
+}
+.dugmence a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.popularno{
+    background-color: white;
+    margin-top: 2%;
+    padding-bottom: 20% !important;
+    padding-left: 2% !important;
+    margin-bottom: 3% !important;
+    width: 100%;
+    position: relative;
+    
+    
+
+
+}
+
+
+.popularno-vesti{
+
+    padding-top: 1% !important;
+    border-bottom:2px solid #ccc;
+    margin-left: 1% !important;
+    margin-right: 1% !important;
+    
+
+
+}
+.kvadratic{
+    background-color: orangered;
+    height: 20px;
+    width: 8px;
+    padding-left: 1% !important;
+    
+}
+.kvadratic1{
+    background-color: #112335;
+    height: 10px;
+    width: 4px;
+    padding-left: 1% !important;
+    padding-top: 2% !important;
+    margin-left: 2%;
+}
+.vesti2{
+    background-color: #ccc;
+    height: 45%;
+
+
+}
+.popularno-slika{
+    margin-left: 1% !important;
+    margin-top: 4%;
+    position: relative;
+
+
+}
+.popularno-text{
+    position: absolute;
+    top: 68%;
+    background-color: #112335;
+    width: 90%;
+    color: white;
+    height: 32%;
+    opacity: 0.7;
+    font-weight: bold;
+    padding-left: 3% !important;
+    font-size: 13px;
+
+
+}
+.popularno-text-scena{
+    position: absolute;
+    top: 68%;
+    background-color: #321a32;
+    width: 90%;
+    font-size: 14px;
+    color: white;
+    height: 32%;
+    opacity: 0.7;
+    font-weight: bold;
+    padding-left: 3% !important; 
+}
+.popularno-text-zelena{
+    position: absolute;
+    top: 68%;
+    background-color: #00331a;
+    width: 90%;
+    color: white;
+    height: 32%;
+    opacity: 0.7;
+    font-weight: bold;
+    padding-left: 3% !important; 
+}
+.popularno-text-zelena a{
+    color: white;
+    text-decoration: none;
+}
+.popularno-text-zelena a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.popularno-text-scena a{
+    color: white;
+    text-decoration: none;    
+}
+.popularno-text-scena a:hover{
+    color: #2E9AFE;
+    text-decoration: none;    
+}
+.popularno-text a{
+    color: white;
+    text-decoration: none;    
+}
+.popularno-text a:hover{
+    color: orangered;
+    text-decoration: none;    
+}
+.vremee{
+    padding: 0% !important;
+}
+.popularno-slika1{
+    margin-left: 1% !important;
+    margin-top: 1%;
+    margin-right: 2.2% !important;
+    background: linear-gradient(#112335, #425D82); 
+    font-size: 12px;
+    font-weight: bold;
+    width: 87%;
+}
+.popularno-slika1-zelena{
+    margin-left: 1% !important;
+    margin-top: 1%;
+    margin-right: 2.2% !important;
+    background: linear-gradient(#00331a, #2caa80); 
+    font-size: 12px;
+    font-weight: bold;
+    width: 87%;
+}
+.popularno-slika1-zelena a{
+    color: white;
+    text-decoration: none;
+}
+.popularno-slika1-zelena a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+
+.popularno-slika1-scena{
+    margin-left: 1% !important;
+    margin-top: 1%;
+    margin-right: 2.2% !important;
+    background: linear-gradient(#321a32, #8e488e);
+    font-size: 12px;
+    font-weight: bold;
+    width: 87%;
+}
+.popularno-slika1-scena a{
+    color: white;
+    text-decoration: none;
+}
+.popularno-slika1-scena a:hover{
+    color: #2E9AFE;
+    text-decoration: none;
+}
+.popularno-slika1 a{
+    color: white;
+    text-decoration: none;
+}
+.popularno-slika1 a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.popularno-slika2{
+    margin-left: 1% !important;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-right: 2.2% !important;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.popularno-slika2 a{
+    color: #112335;
+    text-decoration: none;
+    margin-left: 1%;
+}
+.popularno-slika2 a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.rekli{
+
+    margin-left: 0.1% !important;
+    margin-bottom: 22%;
+    
+    
+}
+.asd{
+    margin-left: 1% !important;
+}
+
+.relki-su{
+    margin-top: 2% !important;
+    background: white;
+    padding-left: 2%;
+    padding-top: 1%;
+    margin-bottom: 5%;
+    height: 20%;
+    
+}
+
+.relki-su a{
+    color: #112335;
+    text-decoration: none;
+    font-size: 22px;
+    margin-bottom: 5% !important;
+}
+
+.levo3{
+    margin-top: 2%;
+    position: relative;
+    
+
+}
+.levo3-tekst{
+    position: absolute;
+    padding-top: 5%;
+    top: 62%;
+    background-color: #112335;
+    width: 100%;
+    color: white;
+    height: 37.2%;
+    opacity: 0.7;
+    font-weight: bold;
+    padding-left: 3% !important;
+}
+.levo3-tekst2{
+    position: absolute;
+    padding-top: 5%;
+    top: 62%;
+    background-color: #112335;
+    width: 99%;
+    color: white;
+    height: 37.2%;
+    opacity: 0.7;
+    font-weight: bold;
+    padding-left: 4% !important;
+    margin-left: 1%;
+}
+.desno3{
+
+    margin-top: 2%;
+    position: relative;
+
+
+}
+.reklisu{
+    padding-left: 0.2% !important;
+    width: 100%;
+    border-bottom: 2px solid #ccc;
+    margin-left: 0.4% !important;
+    margin-right: 1% !important;
+    height: 10%;
+
+}
+.nav-vesti{
+    width: 100%;
+    height: 8%; 
+    background-image: linear-gradient(to right, #112335  , #425D82);
+    margin-bottom: 1%;
+    padding-top: 0.5%;
+    margin-top: 2% !important;
+    padding-right: 0%;
+    margin-right: 2%;
+    
+}
+
+.male-vesti-tekst{
+    font-size: 10px;
+    padding-left: 5% !important;
+    font-size: 10px;
+    margin: 0% !important;
+    padding-right: 1%;
+    
+
+}
+.slk{
+   padding-left: 1% !important;
+    
+}
+.male-vesti-tekst a{
+
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+
+}
+.male-vesti-tekst a:hover{
+    color: white;
+    text-decoration: none;
+}
+.male-vesti-slika{
+    padding-right: 0% !important;
+    margin-bottom: 0.5%;
+    margin-right: 0%;
+}
+
+.levo-galerija{
+    background-image: linear-gradient( #112335  , #425D82);
+    height: 60%;
+    width: 30%;
+    margin-bottom: 1%;
+
+
+}
+.levo-galerija-scena{
+    background-image: linear-gradient( #321a32  , #8e488e);
+    height: 60%;
+    width: 30%;
+    margin-bottom: 1%; 
+}
+.slika-galerija{
+   margin-left:  1% !important;
+   margin-right: 1% !important;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 0% !important;
+    
+}
+.slicice-galerija{
+    margin-left: 5% !important;
+    margin-bottom: 1%;
+    padding-right: 1%;
+    margin-top: 1%;
+
+}
+.slicice-galerija2{
+    margin-left: 1%;
+}
+.desno-galerija{
+    background-color: white;
+    padding: 0% !important;
+    height: 45% !important;
+    border-left: 5px solid #D8D8D8;
+  
+    margin-bottom: 5% !important;
+    width: 50vh;
+    position: relative;
+}
+.col-md-6{
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+
+}
+.facebook{
+    padding-left: 15%;
+    border-bottom: 1px solid #CCC;
+    margin-left: 7%;
+    
+}
+.facebook a{
+    color:#3b5998;
+    text-decoration: none;
+
+}
+.facebook a:hover{
+    color:#3b5998;
+    text-decoration: none;
+
+}
+.twitter{
+    padding-left: 15%;
+    border-bottom: 1px solid #CCC;
+    margin-right: 7%;
+    
+    
+}
+.twiter a{
+    color:lightblue;
+    text-decoration: none;
+
+}
+.twitter a:hover{
+   
+    text-decoration: none;
+
+}
+.like{
+    background-color: #2E2EFE;
+    border: 1px solid #3b5998;
+    border-radius: 5%;
+    margin-left: 6%;
+    width: 25%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+.like a{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+.like a:hover{
+    color: white;
+    text-decoration: none;
+
+}
+.Share{
+    background-color: #2E2EFE;
+    border: 1px solid #3b5998;
+    border-radius: 5%;
+    margin-left: 2%;
+    width: 15%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+.Share a{
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+.Share a:hover{
+    color: white;
+    text-decoration: none;
+
+}
+.ft{
+    border-bottom: 1px solid #ccc;
+    margin-right: 1% !important;
+    margin-left: 1% !important;
+}
+.prazan-prostor{
+    height: 70% !important;
+    margin-bottom: 130%;
+
+}
+.poslednji-deo{
+    background: white;
+    margin-left: 0.5%;
+    padding-bottom: 5% !important;
+
+
+
+}
+.poslednji-deo1{
+    background: white;
+    padding-bottom: 5% !important;
+    
+}
+.pos-slika{
+    padding-left: 10%;
+    padding-right: 5%;
+    margin-top: 4%;
+}
+.pos-tekst{
+    padding-left: 4%;
+    padding-right: 2%;
+    border-bottom: 4px solid #ccc;
+    margin-right: 1% !important;
+    margin-left: 1% !important;
+    
+
+}
+.pos-tekst a{
+    color: #112335;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+.pos-tekst a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+
+.pos-vesti{
+    font-size: 12px;
+    padding-top: 4%;
+    border-bottom: 1px dotted #ccc;
+    margin-left: 1% !important;
+    margin-right: 1% !important;
+    
+
+
+}
+.pos-vesti a{
+    color: #112335;
+    text-decoration: none;
+    font-size: 12px;
+}
+.pos-vesti a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+.poslednje2{
+    margin-top: 1%;
+    margin-bottom: 2% !important;
+    
+}
+.futer{
+    background-image: linear-gradient( #112335, #425D82);
+    
+}
+.futer-zelena{
+   
+    background: linear-gradient(#00331a, #2caa80);
+        
+    
+}
+.futer-scena{
+    background: linear-gradient(#321a32, #8e488e);
+    
+}
+
+.futer-sport{
+    background: linear-gradient(#660000, #990000);
+    
+}
+.sekcija{
+    border-bottom: 1px solid #ccc;
+    color: white;
+    margin-left: 2% !important;
+    font-size: 16px;
+    margin-bottom: 4%;
+    margin-top: 8%;
+}
+.nabrajanja{
+    margin-left: 5% !important;
+    
+}
+.nabrajanja-scena{
+    margin-left: 5% !important;
+    
+}
+.nabrajanja-sport{
+    margin-left: 5% !important;
+}
+.nabrajanja-sport a{
+    color: white;
+    text-decoration: none;
+
+}
+.nabrajanja-sport a:hover{
+    color: orange;
+    text-decoration: none;
+
+}
+.nabrajanja-scena a{
+    color: white;
+    text-decoration: none;
+
+}
+.nabrajanja-scena a:hover{
+    color: #2E9AFE;
+    text-decoration: none;
+
+}
+.nabrajanja a{
+    color: white;
+    text-decoration: none;
+
+}
+.nabrajanja a:hover{
+    color: orangered;
+    text-decoration: none;
+
+}
+.copyright{
+    margin-left: 30%;
+    font-size: 13px;
+    margin-top: 4%;
+    color: white;
+}
+
+.logo2{
+    margin-left: 90%;
+    margin-bottom: 1%;
+}
